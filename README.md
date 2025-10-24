@@ -5,7 +5,7 @@
 ### Overview
 
 This project explores the relationship between **market sentiment** and **trading behavior**, using the **Fear & Greed Index** alongside historical trade data.
-The goal was to identify whether emotional market conditions such as *Fear* and *Greed* influence how traders perform — in terms of **profitability, participation, and risk-taking behavior**.
+The goal was to identify whether emotional market conditions such as *Fear* and *Greed* influence how traders perform in terms of **profitability, participation, and risk-taking behavior**.
 
 The workflow follows a structured, multi-stage process:
 
