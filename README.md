@@ -1,4 +1,4 @@
-**Analyzing how trading behavior (profitability, risk, volume, and leverage) aligns with market sentiment (Fear vs. Greed)**
+## **Analyzing how trading behavior (profitability, risk, volume, and leverage) aligns with market sentiment (Fear vs. Greed)**
 
 ---
 
